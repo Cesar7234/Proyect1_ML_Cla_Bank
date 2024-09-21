@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Documentos/Ai%20Labs/Clases/Sesi%C3%B3n%2013%20cuatro%20proyectos/Proyecto%201%20Clasificaci%C3%B3n%20ML/mlruns/0/736b4ae4fbd94c88928c6e9db76d46fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 736b4ae4fbd94c88928c6e9db76d46fe
+run_name: gaudy-perch-846
+run_uuid: 736b4ae4fbd94c88928c6e9db76d46fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726892185829
+status: 1
+tags: []
+user_id: cesar

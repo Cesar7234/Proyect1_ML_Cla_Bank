@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Documentos/Ai%20Labs/Clases/Sesi%C3%B3n%2013%20cuatro%20proyectos/Proyecto%201%20Clasificaci%C3%B3n%20ML/mlruns/0/e7f6aa12e00540448c5ab38b396b0efa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7f6aa12e00540448c5ab38b396b0efa
+run_name: magnificent-fish-906
+run_uuid: e7f6aa12e00540448c5ab38b396b0efa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725491061228
+status: 1
+tags: []
+user_id: cesar

@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# FastAPI
+*.log
+*.pid
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model files
+*.pkl
+
+# Ignore SQLite databases
+*.db
+*.sqlite3
+
+# VS Code files
+.vscode/
+*.code-workspace
+
+# macOS files
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Ignore package management files
+Pipfile
+Pipfile.lock
+
+# Ignore build files
+build/
+dist/
+*.egg-info/
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+
+# Ignore documentation builds
+docs/_build/
