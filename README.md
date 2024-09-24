@@ -60,6 +60,14 @@ La API devolverá una predicción en formato JSON:
   "prediction": 0
 }
 
+1. Descarga la imagen:
+docker pull cesar723/fastapi-model:v1
+
+2. Ejecuta el contenedor:
+docker run -d -p 8000:8000 cesar723/fastapi-model:v1 
+
+3. Accede a la API en `http://localhost:8000/docs`
+
 Requerimientos del Proyecto
 Python 3.8+
 FastAPI
